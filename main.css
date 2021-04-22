@@ -445,7 +445,7 @@ html,
     ---------------------------- */
                                 
                                 .our-vision {
-                                    background: url("/images/vision.jpg") center no-repeat;
+                                    background: url("images/vision.jpg") center no-repeat;
                                     background-size: cover;
                                     height: 20rem;
                                     padding: 2em;
@@ -462,7 +462,7 @@ html,
                                     background-color: rgb(59, 58, 58, 0.692);
                                     font-size: 20px;
                                     padding: 30px;
-                                    border: #c78c06 solid 1px;
+                                    border: #c78b07 solid 1px;
                                     margin: 0;
                                     margin-left: 10px;
                                     color: white;
@@ -487,21 +487,15 @@ html,
                                 }
                                 
                                 .our-vision h2 {
-                                    margin: 20px;
+                                    position: relative;
+                                    bottom: -100px;
+                                    right: 10px;
+                                    background-color: black;
                                     color: white;
-                                    margin-bottom: 30px;
+                                    padding-left: 20px;
+                                    padding-right: 20px;
                                 }
-                                /* how to put text top of backgroudn */
-                                /* .our-vision h2{
-position: relative;
-bottom: -100px;
-right: 10px;
-background-color: black;
-color: white;
-padding-left: 20px;
-padding-right: 20px;
-} */
-                                
+
                                 .our-vision p {
                                     color: white;
                                     margin-bottom: 30px;
@@ -522,7 +516,7 @@ padding-right: 20px;
                                 }
                                 
                                 h3 {
-                                    font-size: 20px;
+                                    font-size: 36px;
                                     margin-top: 10px;
                                     margin-bottom: 10px;
                                     font-weight: bold;
@@ -550,7 +544,7 @@ padding-right: 20px;
                                 }
                                 
                                 p {
-                                    font-size: 11px;
+                                    font-size: 14px;
                                     margin-top: 10px;
                                     line-height: 1.4;
                                 }
