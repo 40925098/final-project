@@ -635,7 +635,7 @@
                                     .button-banner1,
                                     .button-banner2 {
                                         text-align: center;
-                                        background-color: black;
+                                        background-color: #222;
                                         margin: 4px 2px;
                                         font-size: 20px;
                                         padding: 1em;
@@ -646,7 +646,7 @@
                                     .button-banner4,
                                     .button-banner5 {
                                         text-align: center;
-                                        background-color: black;
+                                        background-color: #222;
                                         margin: 4px 2px;
                                         font-size: 20px;
                                         padding: 1em;
