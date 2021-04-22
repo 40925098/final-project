@@ -211,8 +211,6 @@ html,
                                 }
                                 
                                 .about h2 {
-                                    font-size: 54px;
-                                    font-weight: bold;
                                     padding-top: 20px;
                                 }
                                 
@@ -226,11 +224,6 @@ html,
                                 .contact-us {
                                     margin: 0 auto;
                                     background-color: white;
-                                }
-
-                                 .our-services h2 {
-                                    font-size: 54px;
-                                    font-weight: bold;
                                 }
                                 
                                 .digital,
@@ -253,7 +246,6 @@ html,
                                     margin: 0 0 20px 20px;
                                 }
                                 
-                                .button-bannerr
                                 .button-banner1,
                                 .button-banner2,
                                 .button-banner3,
@@ -501,8 +493,6 @@ html,
                                     color: white;
                                     padding-left: 20px;
                                     padding-right: 20px;
-                                    font-size: 36px;
-                                    font-weight: bold;
                                 }
 
                                 .our-vision p {
@@ -523,10 +513,6 @@ html,
                                 .bob-info {
                                     background-color: #ffe6ac;
                                 }
-
-                                .our-team h2 {
-                                  font-size: 54px;
-                                  font-weight: bold;
                                 
                                 h3 {
                                     font-size: 36px;
@@ -553,7 +539,7 @@ html,
                                     font-weight: bold;
                                     position: relative;
                                     width: 97%;
-                                    font-size: 15px;
+                                    font-size: 12px;
                                 }
                                 
                                 p {
@@ -564,10 +550,6 @@ html,
                                 /* --------------------------
           Location
  ---------------------------- */
-                                  
-                                .contact-us h2 {
-                                  font-size: 54px;
-                                  font-weight: bold;
                                 
                                 iframe {
                                     width: 100%;
