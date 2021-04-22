@@ -252,11 +252,11 @@
                                 .button-banner4,
                                 .button-banner5 {
                                     display: block;
-                                    background-color: black;
+                                    background-color: #222;
                                     margin-left: 10px;
                                     font-size: 20px;
                                     padding: 30px;
-                                    border: black solid 1px;
+                                    border: none;
                                     color: white;
                                 }
                                 
@@ -632,6 +632,15 @@
                                         column-gap: 1em;
                                     }
                                     /* button */
+                                  
+                                    .button-bannerr {
+                                      border: none;
+                                    }
+                                  
+                                    .button-banner .im im-play {
+                                      color: #222;
+                                    }
+                                  
                                     .button-banner1,
                                     .button-banner2 {
                                         text-align: center;
