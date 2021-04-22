@@ -445,7 +445,7 @@ html,
     ---------------------------- */
                                 
                                 .our-vision {
-                                    background: url(../images/vision.jpg) center no-repeat;
+                                    background: url("/images/vision.jpg") center no-repeat;
                                     background-size: cover;
                                     height: 20rem;
                                     padding: 2em;
