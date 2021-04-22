@@ -596,8 +596,8 @@
 
                                     .logo {
                                         display: inline-block;
-                                        height: 70px;
-                                        width: 70px;
+                                        padding-top: 18px;
+                                        padding-bottom: 18px;
                                     }
                                     /* Navigation */
                                     .nav-list {
