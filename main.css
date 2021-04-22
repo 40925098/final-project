@@ -631,16 +631,9 @@
                                         grid-template-columns: repeat(2, 1fr);
                                         column-gap: 1em;
                                     }
+                                  
                                     /* button */
-                                  
-                                    .button-bannerr {
-                                      border: none;
-                                    }
-                                  
-                                    .button-banner .im im-play {
-                                      color: #222;
-                                    }
-                                  
+     
                                     .button-banner1,
                                     .button-banner2 {
                                         text-align: center;
