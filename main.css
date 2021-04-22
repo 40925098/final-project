@@ -128,8 +128,8 @@
                                     border-collapse: collapse;
                                     border-spacing: 0;
                                 }
-                                /* ********************************************************************************* */
-                                /* ********************************************************************************* */
+
+                                /* =================================================== */
                                 
                                 html {
                                     font-family: Arial, Arial, Helvetica, sans-serif;
@@ -350,7 +350,6 @@
                                     max-width: 100px;
                                 }
 
-                                /*  */
                                 
                                 .banner {
                                     height: 450px;
@@ -493,7 +492,6 @@
                                 .vision-info {
                                     position: absolute;
                                     top: 2em;
-                                    /* margin-left: 20px; */
                                 }
                                 
                                 .our-vision h2 {
