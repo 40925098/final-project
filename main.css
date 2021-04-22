@@ -348,13 +348,10 @@ html,
                                 }
                                 /* header */
                                 
-                                .mobile-logo {
+                                .logo {
                                     max-width: 100px;
                                 }
-                                
-                                .desktop-logo {
-                                    display: none;
-                                }
+
                                 /*  */
                                 
                                 .banner {
@@ -585,10 +582,7 @@ padding-right: 20px;
                                     html {
                                         font-size: 16px;
                                     }
-                                    .mobile-logo {
-                                        display: none;
-                                    }
-                                    .desktop-logo {
+                                    .logo {
                                         display: inline-block;
                                         height: 70px;
                                         width: 70px;
