@@ -177,7 +177,7 @@ html,
                                 }
                                 
                                 .intro {
-                                    background: url(../images/main-banner.jpg) center no-repeat;
+                                    background: url("images/main-banner.jpg") center no-repeat;
                                     background-size: cover;
                                     padding: 2em;
                                 }
